@@ -77,12 +77,3 @@ A Docker registry is a storage and content delivery system for Docker images.
 - The Docker Daemon handles all tasks behind the scenes.
 - Registries store and distribute images.
 """
-
-# Save the markdown file
-markdown_path = "/mnt/data/docker_architecture_explained.md"
-with open(markdown_path, "w") as f:
-    f.write(markdown_content)
-
-markdown_path
-Result
-'/mnt/data/docker_architecture_explained.md'
