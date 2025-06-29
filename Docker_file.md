@@ -1,6 +1,6 @@
 ## 📌 Docker Architecture Diagram
 
-![Docker Architecture/../docker_archi.png)
+../Docker-Architecture/docker_archi.png)
 
 ---
 
