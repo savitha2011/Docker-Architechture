@@ -6,7 +6,7 @@ This document explains how Docker works using the components shown in the diagra
 
 ## 📌 Docker Architecture Diagram
 
-![Docker Architecture Diagram](../docker_archi.png)
+![Docker Architecture Diagram](docker_archi.png)
 
 ---
 
